@@ -5,7 +5,7 @@
 The Aridity Team is a group/team (hence the name) consisting of people from around of the world (mostly in Europe, and Asia) that likes to develop softwares for fun.
 
 ## How to join us?
-Wanna join? Don't worry, you don't need to be a software developer/engineer to be in the gang. You can provide The Aridity Team sounds, graphics, voice, design shit or whatever and more!
+Wanna join? Don't worry, you don't need to be a software developer/engineer to be in the gang. You can provide The Aridity Team sounds, graphics, voice, design stuff or whatever and more!
 
 ## Can we partner?
 Short answer is No. Because of the events that happened back then, The Aridity Team currently doesn't accept partnerships/sponsorships from third-party organizations unless it's very trusted.
@@ -32,12 +32,3 @@ Our software can be improved, and the team is ready to do so! If you have encoun
 - [Soviet Hoovy](https://github.com/SovietHoovy) - level designer and annoying asf
 - [Kaleidø.vtf](https://github.com/Kaleido-Zeit-Lime) - modeller, texture artist and helped with beta stuff
 - [SBR0607](https://github.com/SBR0607) - level designer
-
-## Former members/contributors
-- certified PC eater/rilabug - project leads for batarongOS, the archiso config and plymouth theme guy for batarongOS
-- Timmy - the archiso config guy for batarongOS
-- GuestSneezePlays - AridDesktop developer
-- Wheatley - Playtester for Resonance Warfare (formally Half-Life 2 Deathmatch: Community Edition)
-
-# Partners/Sponsors
-- [Rogue Lambda](https://www.moddb.com/company/rogue-lambda)
